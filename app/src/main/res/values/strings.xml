@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XPoGoFinder</string>
+    <string name="module_enabled">Module Enabled</string>
+    <string name="server">Server:</string>
+    <string name="save">Save</string>
+    <string name="empty"/>
+</resources>
