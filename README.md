@@ -20,7 +20,7 @@
 
 ## Authors
 
-* **Nikos Bampamis** - [Nik-Bam](https://github.com/Nik-Bam)
+* **Nikos Bampamis** - [nikbam](https://github.com/nikbam)
 
 ## License
 
